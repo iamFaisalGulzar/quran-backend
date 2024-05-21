@@ -1,4 +1,4 @@
-# MyApp
+# QuranApp
 
 MyApp is a web application that provides users with access to chapters and verses of a book. Users can register, login, and view chapters along with their corresponding verses.
 
